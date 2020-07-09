@@ -17,3 +17,14 @@ li {
     line-height: 40px;
 }
 
+body {
+    color: saddlebrown;
+}
+
+title {
+    background-color: salmon;
+}
+
+body {
+    font-size: medium;
+}
